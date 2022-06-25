@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jassim Choudhary.
+- 👀 I’m interested in creating applications that people can connect with.
+- 🌱 I’m currently learning Fullstack Web Development.
+- 💞️ I’m looking to collaborate on Open Source Projects.
+- 📫 How to reach me: Twitter @JassimChoudhary.
